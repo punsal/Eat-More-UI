@@ -1,0 +1,1 @@
+﻿public enum DrawerState { Open, Close }

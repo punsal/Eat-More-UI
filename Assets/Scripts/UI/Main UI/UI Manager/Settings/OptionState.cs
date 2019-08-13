@@ -1,0 +1,1 @@
+﻿public enum OptionState { Enabled, Disabled }
